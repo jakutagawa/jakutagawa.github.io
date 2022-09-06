@@ -1,3 +1,4 @@
-## UCSC Website
+## GitHub Pages - personal website
 
-I had to make a website for BME 200 at school, so I thought I should actually take it somewhat seriously. 
+I basically copied my existing graduate school website and ported it to GitHub Pages.
+Will work on it as time allows.
